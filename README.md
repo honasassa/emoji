@@ -37,21 +37,11 @@ sample output(emoji l)
 * emoji search(s) query
   * search emoji
 
-sample output(emoji search cat)
+sample output(emoji search dog)
 
 ```
-😻  heart_eyes_cat
-🙀  scream_cat
-✖  heavy_multiplication_x
-😽  kissing_cat
-🐈  cat2
-😼  smirk_cat
-🐱  cat
-😺  smiley_cat
-😾  pouting_cat
-😸  smile_cat
-😿  crying_cat_face
-😹  joy_cat
+🐕  dog2
+🐶  dog
 ```
 
 * emoji random(r)
