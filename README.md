@@ -31,6 +31,7 @@ sample output(emoji l)
 😓  sweat
 ➕  heavy_plus_sign
 🎷  saxophone
+...
 ```
 
 * emoji search(s) query
