@@ -1,13 +1,13 @@
 emoji
 ======================
 
-commandline tool for emoji
+commandline tool for emoji 🎷🎷🎷
 
 install
 ======================
 
 ```
-go get github.com/kkkkkt/emoji-commandline-tool
+go get github.com/kkkkkt/emoji
 ```
 
 and be sure your PATH includes$GOPATH/bin:
