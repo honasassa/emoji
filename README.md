@@ -53,3 +53,8 @@ sample output(emoji random)
 ```
 🎭  performing_arts
 ```
+
+License
+=====================
+
+MIT
